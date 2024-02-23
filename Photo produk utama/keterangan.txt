@@ -1,0 +1,4 @@
+A = antiseptik
+B = batuk & flu
+M = demam
+D = mata
